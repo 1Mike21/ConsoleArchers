@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\bin\Debug\ConsoleArchers.exe.config
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\bin\Debug\ConsoleArchers.exe
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\bin\Debug\ConsoleArchers.pdb
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.exe
+C:\Users\Admin\source\repos\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.pdb
+D:\Desktop\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.csproj.AssemblyReference.cache
+D:\Desktop\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.csproj.CoreCompileInputs.cache
+D:\Desktop\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.exe
+D:\Desktop\ConsoleArchers\ConsoleArchers\obj\Debug\ConsoleArchers.pdb
+D:\Desktop\ConsoleArchers\ConsoleArchers\bin\Debug\ConsoleArchers.exe.config
+D:\Desktop\ConsoleArchers\ConsoleArchers\bin\Debug\ConsoleArchers.exe
+D:\Desktop\ConsoleArchers\ConsoleArchers\bin\Debug\ConsoleArchers.pdb

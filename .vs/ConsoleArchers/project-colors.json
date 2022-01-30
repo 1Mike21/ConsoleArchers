@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de1eb59a-838a-426d-8175-ff6982499dff": {
+      "ProjectGuid": "de1eb59a-838a-426d-8175-ff6982499dff",
+      "DisplayName": "ConsoleArchers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
